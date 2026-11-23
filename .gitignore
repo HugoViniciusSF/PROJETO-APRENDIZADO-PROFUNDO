@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datasets
+data/
+datasets/
+*.tar.gz
+*.zip
+
+# Pesos, checkpoints e modelos salvos
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.h5
+*.pkl
+
+# Logs de experimentos e tracking
+mlruns/
+.mlflow/
+runs/
+wandb/
+lightning_logs/
+
+# Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Planejamento interno local
+PLANEJAMENTO.md
+
+# Configurações de IDEs
+.vscode/
+.idea/
