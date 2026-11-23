@@ -45,8 +45,9 @@ lightning_logs/
 ehthumbs.db
 Thumbs.db
 
-# Planejamento interno local
+# Documentação interna local
 PLANEJAMENTO.md
+TASKS.md
 
 # Configurações de IDEs
 .vscode/
