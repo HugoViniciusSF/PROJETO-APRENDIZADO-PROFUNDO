@@ -48,5 +48,6 @@ O sistema identifica vagas livres e ocupadas em estacionamentos usando câmeras 
 ├── notebooks/      # preparação do PKLot, baselines por recorte e treino YOLO/RT-DETR com MLflow
 ├── src/            # inferência, módulo geométrico (IoU/centroide), banco e API FastAPI
 ├── frontend/       # mapa público (vagas em verde/vermelho) e painel administrativo
+├── data/           # amostras locais e configurações de polígonos (datasets grandes ignorados no Git)
 └── README.md
 ```

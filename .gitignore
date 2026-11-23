@@ -15,7 +15,8 @@ ENV/
 */.ipynb_checkpoints/*
 
 # Datasets
-data/
+data/*
+!data/.gitkeep
 datasets/
 *.tar.gz
 *.zip
